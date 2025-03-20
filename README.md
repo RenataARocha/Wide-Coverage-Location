@@ -1,4 +1,4 @@
-<h1> Irmãos Mario 🛠️ <img src= "https://github.com/user-attachments/assets/d335380d-f725-4095-857f-6bef8c0c067ae" height="40"width="40"/>
+<h1> Wide Coverage Location 📍🌍 </h1>
 
 
 
@@ -7,11 +7,8 @@
 
 
 <h2>Resumo</h2>
-<p>O site dos Irmãos Mario é dedicado a oferecer serviços de encanação de alta qualidade, 
-garantindo que cada cliente receba o melhor atendimento e soluções eficazes para suas necessidades. <br>
-- Serviços de Encanação: Com uma ampla gama de serviços, desde reparos simples até instalações complexas. <br>
-- Orçamentos Rápidos: Orçamento de forma fácil e rápida através do nosso site. <br>
-- Atendimento Especializado: Equipe é composta por profissionais experientes prontos para ajudar.
+<p>O Wide Coverage Location é uma plataforma projetada para fornecer informações detalhadas sobre a cobertura geográfica de serviços e redes em diversas áreas. 
+O objetivo principal do site é ajudar os usuários a entenderem a disponibilidade de conectividade e serviços em locais amplos e variados, incluindo áreas urbanas, rurais e remotas.
 
 </p>
 
@@ -35,6 +32,6 @@ garantindo que cada cliente receba o melhor atendimento e soluções eficazes pa
 
 
 
-![ççljkõhpj](https://github.com/user-attachments/assets/40339cdd-5671-431a-bb18-38a881867e83)
+![Captura de tela 2025-03-18 162456](https://github.com/user-attachments/assets/510299d1-78f3-4267-b4a0-b4aa8a761fd2)
 
 
