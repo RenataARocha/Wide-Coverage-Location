@@ -26,7 +26,7 @@ ideal para usuários que precisam acessar informações geográficas de forma in
 
 <h2>🎨 Layout</h2>
 
-Link: https://widecoveragelocation.programadorawebrenatarocha.com.br/
+Link: https://renataarocha.github.io/Wide-Coverage-Location/
 
 ![Captura de tela 2025-03-18 162456](https://github.com/user-attachments/assets/0eeadc98-5931-4920-a00a-106c87a51af6)
 
@@ -40,7 +40,7 @@ git clone https://github.com/RenataARocha?tab=repositories <br> <br>
 2. Acesse a pasta do projeto: <br>
 cd Projeto---Wide-Coverage-Location <br> <br>
 3. Abra o Link em seu navegador. <br>
-https://widecoveragelocation.programadorawebrenatarocha.com.br/ <br> <br>
+https://renataarocha.github.io/Wide-Coverage-Location/ <br> <br>
 
 
 <h2>🤝 Contribuição</h2>
